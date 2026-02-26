@@ -1,5 +1,5 @@
 tensorflow==2.15.0
-panda
+pandas
 numpy
 scikit-learn
 tensorboard
